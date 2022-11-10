@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vimal Kumar Dubey</h1>
 <h3 align="center">A passionate Competitive Programmer and Developer from India</h3>
@@ -39,4 +39,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vkd01&show_icons=true&locale=en" alt="vkd01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkd01&" alt="vkd01" /></p>
-
