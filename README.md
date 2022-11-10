@@ -1,4 +1,4 @@
-[![MasterHead]([https://res.cloudinary.com/practicaldev/image/fetch/s--OKTSR5Om--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/jjkntk4salxdw0eybhej.gif](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif))](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vimal Kumar Dubey</h1>
 <h3 align="center">A passionate Competitive Programmer and Developer from India</h3>
