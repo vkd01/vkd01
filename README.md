@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)](https://rishavchanda.io)
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--OKTSR5Om--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/jjkntk4salxdw0eybhej.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vimal Kumar Dubey</h1>
 <h3 align="center">A passionate Competitive Programmer and Developer from India</h3>
