@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/little_s0ul" target="blank"><img src="https://img.shields.io/twitter/follow/little_s0ul?logo=twitter&style=for-the-badge" alt="little_s0ul" /></a> </p>
 
-- 🔭 I’m currently working on **House Price Prediction model**
+- 🔭 I’m currently specializing in **High-performance Algorithms for Enhanced Trade Execution Accuracy**
 
-- 🌱 I’m currently learning **NOde.js, React and Java**
+- 🌱 I’m currently learning **Data Analytics, Advanced Mathematics, Finance**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
-- 📫 How to reach me **vimalkumardubey23@gmail.com**
+- 📫 How to reach me **brucexvkd001@gmail.com**
 
 - ⚡ Fun fact **I am a Noob Programmer !! LOL**
 
