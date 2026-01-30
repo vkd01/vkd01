@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Data Analytics, Advanced Mathematics, Finance**
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 👯 I’m looking to collaborate on **Cyber Security (Digital Forensics) projects**
 
 - 📫 How to reach me **brucexvkd001@gmail.com**
 
