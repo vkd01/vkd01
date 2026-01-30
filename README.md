@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/little_s0ul" target="blank"><img src="https://img.shields.io/twitter/follow/little_s0ul?logo=twitter&style=for-the-badge" alt="little_s0ul" /></a> </p>
 
-- 🔭 I’m currently specializing in **High-performance Algorithms for Enhanced Trade Execution Accuracy**
+- 🌹 I’m  **YashiiPaglu**
 
 - 🌱 I’m currently learning **Data Analytics, Advanced Mathematics, Finance**
 
