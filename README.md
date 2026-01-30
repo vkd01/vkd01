@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vimal Kumar Dubey</h1>
-<h3 align="center">A passionate Competitive Programmer and Developer from India</h3>
+<h3 align="center">A passionate Competitive Programmer and Cyber Security Enginner from India</h3>
 
 <img align = "right" alt = "Code with VKD" width = "400" src = "https://cdn-fpjde.nitrocdn.com/zKSAIbYxfUrjhTRqTGaqshRPWQSjBCVZ/assets/static/optimized/rev-8bc85dc/wp-content/uploads/2019/02/dcsad-1.gif">
 
