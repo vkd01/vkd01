@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/little_s0ul" target="blank"><img src="https://img.shields.io/twitter/follow/little_s0ul?logo=twitter&style=for-the-badge" alt="little_s0ul" /></a> </p>
 
-- 🧬,🕵️ I’m currently specializing in **Cyber Security - Digital Forensics**
+- 🧬,🕵️ I’m currently specializing in **Java Backend Development**
 
-- 🌱 I’m currently learning **Data Analytics, Advanced Mathematics, Finance**
+- 🌱 I’m currently learning **Spring Boot, Advanced Mathematics, Finance**
 
-- 👯 I’m looking to collaborate on **Cyber Security (Digital Forensics) projects**
+- 👯 I’m looking to collaborate on **Java Backend Development and Open-Source Projects**
 
-- 📫 How to reach me **brucexvkd001@gmail.com**
+- 📫 How to reach me **businessworldvkd@gmail.com**
 
 - ⚡ Fun fact **I am a Noob Programmer !! LOL**
 
